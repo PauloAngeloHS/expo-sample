@@ -1,2 +1,6 @@
 # expo-sample
-Expo app that contains 3 screens the explication, camera, galeria
+Expo app that contains 3 screens
+using
+1. Explication;
+2. Camera;
+3. Caleria;
